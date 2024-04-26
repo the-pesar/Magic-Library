@@ -1,1 +1,2 @@
 # Magic-Library
+The local magical library is a place for wizards, who travel through time, perform magic, and live among people without being recognized. As they are book lovers and in need of a quiet place, a place called the magical library was built for them. Unfortunately, the librarian of the magical library has become old and these days she is very impatient. She asked me to write a library management system program for her convenience, and since I am currently learning Golang, I accepted her offer to be able to practice Golang well through this project.
